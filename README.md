@@ -101,7 +101,7 @@ Feel free to **fork**, improve, and submit a PR 🚀
 
 ## 📬 Connect with Me
 
-* 💼 LinkedIn ([Add your link](https://www.linkedin.com/in/ashvani-patel/))
+* 💼 LinkedIn ([https://www.linkedin.com/in/ashvani-patel/](https://www.linkedin.com/in/ashvani-patel/))
 
 
 ---
